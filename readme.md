@@ -64,6 +64,13 @@ The trained model had the following metrics:
 
 Indian traffic-sign datasets are limited. Available ones are private with restricted access. For this task, the [GTSRB (German Traffic Sign Detection Benchmark) dataset](https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign) containing 800 distinct images was used. Traffic signs were classified into 4 categories: Prohibitory, Danger, Mandatory and Other
 
+<img src="https://github.com/varungupta31/AutoVision/blob/main/Traffic_Sign_Detection_GTSRB/images/TS_Metric.png" height='auto' width='auto'/>
+
+https://user-images.githubusercontent.com/51288316/146639435-a7928a8b-35dd-42f4-8294-2e469061ff87.mp4
+
+
+
+https://user-images.githubusercontent.com/51288316/146639597-5feb85a5-7213-4227-b6b9-bd8af5f45c48.mp4
 
 
 
